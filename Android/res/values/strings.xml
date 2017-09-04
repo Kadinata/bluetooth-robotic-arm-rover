@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BluetoothControlActivity!</string>
+    <string name="app_name">Rover Controller</string>
+    <string name="pwm_value">PWM: 0</string>
+    <string name="pwm_brightness">Brightness</string>
+    <string name="pwm_dashes">------------------</string>
+    <string name="pwm_channel">Channel:</string>
+    <string name="pwm_red">Red</string>
+    <string name="pwm_green">Green</string>
+    <string name="pwm_blue">Blue</string>
+    <string name="pwm_replies">Replies:</string>
+    <string name="scanning"> scanning for devices… </string>
+    <string name="select_device">select a device to connect</string>
+</resources>
